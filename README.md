@@ -15,7 +15,7 @@ This project provides a Flask-based API that tracks and serves the current avata
 3. Edit the following variables in the script:
 - `USER_ID`: Replace with the Discord user ID you want to track
 - `DISCORD_BOT_TOKEN`: Add your Discord bot token
-- `API_KEY`: Set your desired API key for authentication
+- `API_KEY`: Set your desired API key for authentication ( custom - you can enter any as per your choice )
 
 ## Usage
 1. Run the script:
